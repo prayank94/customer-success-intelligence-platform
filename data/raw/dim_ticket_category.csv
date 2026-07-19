@@ -1,0 +1,11 @@
+category_id,category_name,priority,expected_sla_hours,category_status
+CAT002, Visitor Management,Low,48,Active
+CAT002, Visitor Management,Low,48,Active
+CAT006,Account,medium,24,Active
+CAT001,Maintenance Payment,Medium,24,Active
+CAT008,Other,Low,72,Inactive
+CAT003,Parking,Medium,48,Inactive
+CAT006,Account,medium,24,Active
+CAT005,Complaint,High,12,Active
+CAT004,amenities,Low,72,Active
+CAT007,SECURITY,High,4,Inactive
