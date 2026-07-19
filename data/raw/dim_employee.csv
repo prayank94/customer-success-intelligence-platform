@@ -1,0 +1,53 @@
+employee_id,employee_name,employee_email,department,designation,joining_date,employee_status
+EMP020,Arjun Reddy,arjun.reddy@company.com,Finance,Manager,2020-11-13,Active
+EMP042,ROHIT NAIR,rohit.nair@company.com,Customer Support,Executive,2019-05-23,Active
+EMP048,divya sharma,divya.sharma@company.com,Customer Success,Manager,2025-09-26,Active
+EMP013,Megha Reddy,megha.reddy@company.com,Sales,Senior Executive,2021-06-22,Active
+EMP044,Akash Verma,akash.verma@company.com,Sales,Assistant Manager,2020-10-07,Active
+EMP006,Sneha Kapoor,sneha.kapoor@company.com,Finance,Executive,2025-06-20,Active
+EMP018,Neha Reddy,neha.reddy@company.com,Customer Success,Associate,2025-03-04,Active
+EMP014,Anjali Joshi,anjali.joshi@company.com,technology,Senior Executive,2025-12-27,Inactive
+EMP004,VIKAS SINGH,vikas.singh@company.com,Operations,Senior Executive,2026-04-03,Inactive
+EMP033,neha joshi,neha.joshi@company.com,Operations,Assistant Manager,2021-07-26,Inactive
+EMP014,Anjali Joshi,anjali.joshi@company.com,technology,Senior Executive,2025-12-27,Inactive
+EMP009,Sneha Gupta,sneha.gupta@company.com,Sales,Team Lead,2023-10-24,Active
+EMP027,Sneha Nair,sneha.nair@company.com,Customer Support,Executive,2023-12-11,Inactive
+EMP007,Sneha Gupta,sneha.gupta@company.com,Operations,Senior Executive,2024-12-05,Active
+EMP035,Akash Verma,akash.verma@company.com,Customer Support,Associate,2026-04-13,Active
+EMP005,Megha Sharma,megha.sharma@company.com,Operations,Senior Executive,2024-01-12,Inactive
+EMP038,Rohit Kapoor,rohit.kapoor@company.com,Customer Support,Team Lead,2023-02-22,Inactive
+EMP025,Sneha Patel,sneha.patel@company.com,Operations,Associate,2022-10-17,Active
+EMP045,Vikas Kapoor,vikas.kapoor@company.com,Customer Support,Executive,2025-07-05,Active
+EMP034,Neha Jain,neha.jain@company.com,Customer Support,Executive,2022-09-03,Active
+EMP050,Divya Patel,divya.patel@company.com,Operations,Assistant Manager,2023-10-15,Active
+EMP016,Akash Jain,akash.jain@company.com,Customer Support,Senior Executive,2019-03-11,Inactive
+EMP010,divya nair,divya.nair@company.com,Sales,Executive,2023-06-06,Inactive
+EMP017,Neha Singh,neha.singh@company.com,Finance,Manager,2019-07-21,Active
+EMP031,Arjun Verma,arjun.verma@company.com,Sales,Team Lead,2025-06-13,
+EMP037,Rohit Kapoor,rohit.kapoor@company.com,Customer Success,Executive,2023-03-01,Active
+EMP026,Divya Gupta,divya.gupta@company.com,Finance,Associate,2020-03-08,Inactive
+EMP012,Vikas Reddy,vikas.reddy@company.com,sales,Senior Executive,2025-05-09,Active
+EMP001,Akash Nair,akash.naircompany.com,operations,Assistant Manager,2025-02-15,Active
+EMP047,Anjali Nair,anjali.nair@company.com,Customer Support,Team Lead,2021-07-25,Active
+EMP028,Amit Gupta,amit.gupta@company.com,Operations,Manager,2020-11-12,Active
+EMP032,Divya Jain,divya.jain@company.com,Operations,Manager,2019-04-29,Inactive
+EMP040,arjun jain,arjun.jain@company.com,Customer Success,Manager,2025-10-07,Active
+EMP030,Amit Verma,amit.verma@company.com,Operations,Senior Executive,2025-04-01,Inactive
+EMP046,Neha Verma,neha.verma@company.com,Finance,MANAGER,2020-09-30,Active
+EMP002,Akash Gupta,akash.gupta@company.com,Customer Support,Manager,2020-06-17,Active
+EMP022,Megha Nair,megha.nair@company.com,Customer Success,Senior Executive,2023-09-28,Inactive
+EMP003,Amit Gupta,,Customer Support,Manager,2024-08-01,Inactive
+EMP041,Divya Reddy,divya.reddy@company.com,Customer Support,Associate,2026-01-20,Inactive
+EMP036,VIKAS KAPOOR,vikas.kapoorcompany.com,Operations,Team Lead,2021-02-06,Active
+EMP024,Priya Joshi,priya.joshi@company.com,Sales,Team Lead,2023-12-09,Active
+EMP049,Neha Sharma,neha.sharma@company.com,Customer Success,Team Lead,2024-11-01,Active
+EMP011,Rohit Jain,rohit.jain@company.com,Customer Support,Team Lead,2026-05-29,Active
+EMP023,divya kapoor,divya.kapoor@company.com,Customer Success,Assistant Manager,2023-12-08,Inactive
+EMP019,Sneha Gupta,sneha.gupta@company.com,Operations,Senior Executive,2020-10-12,Inactive
+EMP040,arjun jain,arjun.jain@company.com,Customer Success,Manager,2025-10-07,Active
+EMP021,Divya Joshi,divya.joshi@company.com,Operations,Manager,2020-04-02,Active
+EMP008,priya reddy,priya.reddy@company.com,Finance,Executive,2025-04-28,Active
+EMP043,Anjali Jain,,Sales,Executive,2025-05-18,Active
+EMP015,Neha Singh,neha.singh@company.com,Customer Success,Associate,2019-10-06,Inactive
+EMP029,Arjun Patel,arjun.patel@company.com,Customer Support,Executive,2022-05-08,Inactive
+EMP039,Rohit Verma,rohit.verma@company.com,Technology,Assistant Manager,2022-10-23,Inactive
